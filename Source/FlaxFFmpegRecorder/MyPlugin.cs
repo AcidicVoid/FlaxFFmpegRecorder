@@ -14,11 +14,11 @@ namespace FlaxFFmpegRecorder
         {
             _description = new PluginDescription
             {
-                Name = "My Plugin",
-                Category = "Other",
-                Author = "Flax Engine",
-                AuthorUrl = null,
-                HomepageUrl = null,
+                Name = "FlaxFFmpegRecorder",
+                Category = "Tools",
+                Author = "AcidicVoid",
+                AuthorUrl = "https://acidicvoid.com/",
+                HomepageUrl = "https://github.com/AcidicVoid/FlaxFFmpegRecorder",
                 RepositoryUrl = "https://github.com/FlaxEngine/FlaxFFmpegRecorder",
                 Description = "This is an example plugin project.",
                 Version = new Version(1, 0),
